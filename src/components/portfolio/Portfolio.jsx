@@ -5,7 +5,6 @@ import IMG2 from "../../assets/learning.jpg";
 import IMG3 from "../../assets/Startup Agency Project.jpg";
 import IMG4 from "../../assets/Score keeper.png";
 import IMG5 from "../../assets/blog.jpg";
-import IMG6 from "../../assets/Project4.jpg";
 import React from "react";
 
 //Portfolio function
