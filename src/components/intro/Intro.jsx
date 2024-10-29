@@ -3,7 +3,7 @@ import "./intro.css";
 import { FaAward } from "react-icons/fa";
 import React from "react";
 import { VscFolderLibrary } from "react-icons/vsc";
-import img from '../../assets/WhatsApp Image 2024-10-28 at 10.14.10 PM.jpeg'
+import img from '../../assets/new photo.jpg'
 
 // import ME from '../../assets/Rasif Tagizade image.jpg';
 
@@ -33,14 +33,7 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            1+ years experienced Front End Developer with hands-on experience in
-            identifying web-based user interactions along with designing and
-            implementing highly-responsive user interface components by
-            deploying React concepts. Proficient in translating designs and
-            wireframes into high-quality code, and writing application interface
-            code via JavaScript and React JS workflows. Adept at monitoring and
-            maintaining frontend performance and troubleshooting and debugging
-            the same to bolster overall performance.
+          Full Stack Developer with over a  1+  year of experience in building and maintaining dynamic web applications, specializing in both frontend and backend technologies. Skilled in designing and implementing responsive user interfaces using React.js, translating designs and wireframes into clean, high-quality code. Proficient in JavaScript, Node.js, MongoDB, HTML, CSS, and MySQL, with a strong understanding of full-stack development workflows. Experienced in monitoring and optimizing both frontend and backend performance, with expertise in troubleshooting and debugging to enhance overall application efficiency.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
